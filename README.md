@@ -1,2 +1,3 @@
-# local-task-management
-Local task management using browser local storage to manage tasks
+# Local task management
+
+Web application that handles task management for a single user using browser local storage
